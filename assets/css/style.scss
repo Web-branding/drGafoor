@@ -17,7 +17,7 @@ This files table contents are outlined below>>>>>
 ** - Home Slider CSS
 ** - Counter CSS
 ** - About CSS
-** - Services CSS
+** - Servicess CSS
 ** - Expertise CSS
 ** - Video CSS
 ** - Doctors CSS
@@ -47,7 +47,7 @@ This files table contents are outlined below>>>>>
 ** - Login CSS
 ** - Privacy Policy CSS
 ** - Department CSS
-** - Service Details CSS
+** - Services Details CSS
 ** - Back to Top CSS
 ** - Home Four CSS
 ** - Home Five CSS
@@ -729,7 +729,7 @@ button {
 }
 /*-- End About --*/
 
-/*-- Services --*/
+/*-- Servicess --*/
 .section-title {
     margin-bottom: 50px;
     margin-top: -7px;
@@ -753,7 +753,7 @@ button {
         }
     }
 }
-.service-item {
+.Services-item {
     margin-bottom: 30px;
     box-shadow: 0px 0px 25px 0px #ddddddbf;
     text-align: center;
@@ -782,11 +782,11 @@ button {
         &:before {
             opacity: 1;
         }
-        .service-front {
+        .Services-front {
             display: none;
             transform: scale(0.5);
         }
-        .service-end {
+        .Services-end {
             display: block;
             transform: scale(1);
 
@@ -795,7 +795,7 @@ button {
             }
         }
     }
-    .service-front {
+    .Services-front {
         transition: $transition;
         display: block;
 
@@ -814,7 +814,7 @@ button {
             margin-bottom: 0;
         }
     }
-    .service-end {
+    .Services-end {
         position: relative;
         display: none;
         transform: scale(0.5);
@@ -854,7 +854,7 @@ button {
         }
     }
 }
-/*-- End Services --*/
+/*-- End Servicess --*/
 
 /*-- Expertise --*/
 .expertise-item {
@@ -3930,9 +3930,9 @@ footer {
 /*-- End Department --*/
 /*----- END DEPARTMENTS PAGE -----*/
 
-/*----- SERVICES DETAILS PAGE -----*/
-/*-- Service Details --*/
-.services-details-img {
+/*----- ServicesS DETAILS PAGE -----*/
+/*-- Services Details --*/
+.Servicess-details-img {
     margin-bottom: 50px;
 
     img {
@@ -3965,7 +3965,7 @@ footer {
         }
     }
 }
-.service-details-inner-left {
+.Services-details-inner-left {
     background-image: url('../img/signup-bg.jpg');
     background-size: cover;
     background-position: center center;
@@ -3977,7 +3977,7 @@ footer {
         display: none;
     }
 }
-.service-details-inner {
+.Services-details-inner {
     max-width: 580px;
     margin-left: auto;
     margin-right: auto;
@@ -3991,8 +3991,8 @@ footer {
         margin-bottom: 0;
     }
 }
-/*-- End Service Details --*/
-/*----- END SERVICES DETAILS PAGE -----*/
+/*-- End Services Details --*/
+/*----- END ServicesS DETAILS PAGE -----*/
 
 /*----- ABOUT PAGE -----*/
 /*-- Counter --*/
@@ -4076,7 +4076,7 @@ footer {
         }
     }
 }
-.service-area-two {
+.Services-area-two {
     .section-title {
         max-width: 415px;
     }

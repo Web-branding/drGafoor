@@ -17,7 +17,7 @@ This files table contents are outlined below>>>>>
 ** - Home Slider CSS
 ** - Counter CSS
 ** - About CSS
-** - Services CSS
+** - Servicess CSS
 ** - Expertise CSS
 ** - Video CSS
 ** - Doctors CSS
@@ -47,7 +47,7 @@ This files table contents are outlined below>>>>>
 ** - Login CSS
 ** - Privacy Policy CSS
 ** - Department CSS
-** - Service Details CSS
+** - Services Details CSS
 ** - Back to Top CSS
 ** - Home Four CSS
 ** - Home Five CSS
@@ -849,7 +849,7 @@ button:focus {
 }
 
 /*-- End About --*/
-/*-- Services --*/
+/*-- Servicess --*/
 .section-title {
   margin-bottom: 50px;
   margin-top: -7px;
@@ -874,7 +874,7 @@ button:focus {
   border-radius: 5px;
 }
 
-.service-item {
+.Services-item {
   margin-bottom: 30px;
   -webkit-box-shadow: 0px 0px 25px 0px #ddddddbf;
           box-shadow: 0px 0px 25px 0px #ddddddbf;
@@ -886,7 +886,7 @@ button:focus {
   padding-right: 10px;
 }
 
-.service-item:before {
+.Services-item:before {
   position: absolute;
   content: '';
   width: 100%;
@@ -901,55 +901,55 @@ button:focus {
   transition: 0.5s all ease;
 }
 
-.service-item:hover {
+.Services-item:hover {
   -webkit-box-shadow: none;
           box-shadow: none;
 }
 
-.service-item:hover:before {
+.Services-item:hover:before {
   opacity: 1;
 }
 
-.service-item:hover .service-front {
+.Services-item:hover .Services-front {
   display: none;
   -webkit-transform: scale(0.5);
           transform: scale(0.5);
 }
 
-.service-item:hover .service-end {
+.Services-item:hover .Services-end {
   display: block;
   -webkit-transform: scale(1);
           transform: scale(1);
 }
 
-.service-item:hover .service-end p {
+.Services-item:hover .Services-end p {
   margin-bottom: 24px;
 }
 
-.service-item .service-front {
+.Services-item .Services-front {
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
   display: block;
 }
 
-.service-item .service-front i {
+.Services-item .Services-front i {
   display: block;
   color: #4d93e9;
   font-size: 65px;
   margin-bottom: 20px;
 }
 
-.service-item .service-front h3 {
+.Services-item .Services-front h3 {
   font-weight: 600;
   font-size: 22px;
   margin-bottom: 14px;
 }
 
-.service-item .service-front p {
+.Services-item .Services-front p {
   margin-bottom: 0;
 }
 
-.service-item .service-end {
+.Services-item .Services-end {
   position: relative;
   display: none;
   -webkit-transform: scale(0.5);
@@ -958,7 +958,7 @@ button:focus {
   padding-bottom: 5px;
 }
 
-.service-item .service-end i {
+.Services-item .Services-end i {
   position: absolute;
   left: 0;
   right: 0;
@@ -969,31 +969,31 @@ button:focus {
   z-index: -1;
 }
 
-.service-item .service-end h3 {
+.Services-item .Services-end h3 {
   color: #ffffff;
   font-weight: 600;
   font-size: 22px;
   margin-bottom: 20px;
 }
 
-.service-item .service-end p {
+.Services-item .Services-end p {
   margin-bottom: 0;
   color: #ffffff;
 }
 
-.service-item .service-end a {
+.Services-item .Services-end a {
   display: inline-block;
   color: #0046c0;
   background-color: #ffffff;
   padding: 12px 15px;
 }
 
-.service-item .service-end a:hover {
+.Services-item .Services-end a:hover {
   color: #ffffff;
   background-color: #111111;
 }
 
-/*-- End Services --*/
+/*-- End Servicess --*/
 /*-- Expertise --*/
 .expertise-item {
   text-align: center;
@@ -4445,28 +4445,28 @@ footer {
 
 /*-- End Department --*/
 /*----- END DEPARTMENTS PAGE -----*/
-/*----- SERVICES DETAILS PAGE -----*/
-/*-- Service Details --*/
-.services-details-img {
+/*----- ServicesS DETAILS PAGE -----*/
+/*-- Services Details --*/
+.Servicess-details-img {
   margin-bottom: 50px;
 }
 
-.services-details-img img {
+.Servicess-details-img img {
   width: 100%;
   margin-bottom: 30px;
 }
 
-.services-details-img h2 {
+.Servicess-details-img h2 {
   font-weight: 600;
   font-size: 28px;
   margin-bottom: 16px;
 }
 
-.services-details-img P {
+.Servicess-details-img P {
   margin-bottom: 20px;
 }
 
-.services-details-img blockquote {
+.Servicess-details-img blockquote {
   font-size: 15px;
   color: #4a6f8a;
   background-color: #0046c014;
@@ -4476,7 +4476,7 @@ footer {
   margin-bottom: 20px;
 }
 
-.services-details-img blockquote i {
+.Servicess-details-img blockquote i {
   position: absolute;
   display: inline-block;
   top: 20px;
@@ -4484,7 +4484,7 @@ footer {
   font-size: 32px;
 }
 
-.service-details-inner-left {
+.Services-details-inner-left {
   background-image: url("../img/signup-bg.jpg");
   background-size: cover;
   background-position: center center;
@@ -4493,28 +4493,28 @@ footer {
   height: 100%;
 }
 
-.service-details-inner-left img {
+.Services-details-inner-left img {
   display: none;
 }
 
-.service-details-inner {
+.Services-details-inner {
   max-width: 580px;
   margin-left: auto;
   margin-right: auto;
 }
 
-.service-details-inner h2 {
+.Services-details-inner h2 {
   font-weight: 700;
   font-size: 36px;
   margin-bottom: 15px;
 }
 
-.service-details-inner p {
+.Services-details-inner p {
   margin-bottom: 0;
 }
 
-/*-- End Service Details --*/
-/*----- END SERVICES DETAILS PAGE -----*/
+/*-- End Services Details --*/
+/*----- END ServicesS DETAILS PAGE -----*/
 /*----- ABOUT PAGE -----*/
 /*-- Counter --*/
 .counter-area-four {
@@ -4618,7 +4618,7 @@ footer {
   margin-top: 20px;
 }
 
-.service-area-two .section-title {
+.Services-area-two .section-title {
   max-width: 415px;
 }
 

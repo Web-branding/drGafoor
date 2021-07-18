@@ -218,7 +218,7 @@
             animation: unset;
   }
   /*-- End About --*/
-  /*-- Services --*/
+  /*-- Servicess --*/
   .section-title {
     margin-bottom: 30px;
   }
@@ -230,28 +230,28 @@
     width: 50px;
     height: 2px;
   }
-  .service-item:hover .service-end p {
+  .Services-item:hover .Services-end p {
     margin-bottom: 22px;
   }
-  .service-item .service-front i {
+  .Services-item .Services-front i {
     margin-bottom: 12px;
   }
-  .service-item .service-front h3 {
+  .Services-item .Services-front h3 {
     margin-bottom: 8px;
     font-size: 20px;
   }
-  .service-item .service-front p {
+  .Services-item .Services-front p {
     padding-left: 15px;
     padding-right: 15px;
   }
-  .service-item .service-end h3 {
+  .Services-item .Services-end h3 {
     margin-bottom: 12px;
     font-size: 20px;
   }
-  .service-item .service-end a {
+  .Services-item .Services-end a {
     padding: 10px 15px;
   }
-  /*-- End Services --*/
+  /*-- End Servicess --*/
   /*-- Expertise --*/
   .expertise-item .expertise-inner {
     padding-top: 35px;
@@ -1385,37 +1385,37 @@
   }
   /*-- End Department --*/
   /*----- END DEPARTMENTS PAGE -----*/
-  /*----- SERVICES DETAILS PAGE -----*/
-  /*-- Service Details --*/
-  .services-details-img {
+  /*----- ServicesS DETAILS PAGE -----*/
+  /*-- Services Details --*/
+  .Servicess-details-img {
     margin-bottom: 30px;
   }
-  .services-details-img img {
+  .Servicess-details-img img {
     margin-bottom: 20px;
   }
-  .services-details-img h2 {
+  .Servicess-details-img h2 {
     font-size: 20px;
     margin-bottom: 10px;
   }
-  .services-details-img blockquote {
+  .Servicess-details-img blockquote {
     font-size: 14px;
     padding: 25px 15px 25px 45px;
   }
-  .services-details-img blockquote i {
+  .Servicess-details-img blockquote i {
     top: 20px;
     left: 14px;
     font-size: 26px;
   }
-  .service-details-inner-left {
+  .Services-details-inner-left {
     height: 400px;
     margin-bottom: 20px;
   }
-  .service-details-inner h2 {
+  .Services-details-inner h2 {
     font-size: 20px;
     margin-bottom: 10px;
   }
-  /*-- End Service Details --*/
-  /*----- END SERVICES DETAILS PAGE -----*/
+  /*-- End Services Details --*/
+  /*----- END ServicesS DETAILS PAGE -----*/
   /*----- ABOUT PAGE -----*/
   /*-- Counter --*/
   .counter-area-four {
@@ -1746,7 +1746,7 @@
     width: 390px;
   }
   /*-- End About --*/
-  /*-- Services --*/
+  /*-- Servicess --*/
   .section-title {
     margin-bottom: 40px;
   }
@@ -1758,13 +1758,13 @@
     width: 70px;
     height: 4px;
   }
-  .service-item .service-front h3 {
+  .Services-item .Services-front h3 {
     font-size: 20px;
   }
-  .service-item .service-end h3 {
+  .Services-item .Services-end h3 {
     font-size: 20px;
   }
-  /*-- End Services --*/
+  /*-- End Servicess --*/
   /*-- Expertise --*/
   .expertise-item .expertise-inner {
     padding-top: 36px;
@@ -2785,47 +2785,47 @@
   }
   /*-- End Department --*/
   /*----- END DEPARTMENTS PAGE -----*/
-  /*----- SERVICES DETAILS PAGE -----*/
-  /*-- Service Details --*/
-  .services-details-img {
+  /*----- ServicesS DETAILS PAGE -----*/
+  /*-- Services Details --*/
+  .Servicess-details-img {
     margin-bottom: 40px;
   }
-  .services-details-img img {
+  .Servicess-details-img img {
     margin-bottom: 20px;
   }
-  .services-details-img h2 {
+  .Servicess-details-img h2 {
     font-size: 22px;
     margin-bottom: 10px;
   }
-  .services-details-img P {
+  .Servicess-details-img P {
     margin-bottom: 20px;
   }
-  .services-details-img blockquote {
+  .Servicess-details-img blockquote {
     font-size: 15px;
     padding: 25px 15px 25px 55px;
   }
-  .services-details-img blockquote i {
+  .Servicess-details-img blockquote i {
     top: 16px;
     left: 20px;
     font-size: 28px;
   }
-  .service-details-inner-left {
+  .Services-details-inner-left {
     height: auto;
     margin-bottom: 30px;
     background-image: unset;
   }
-  .service-details-inner-left img {
+  .Services-details-inner-left img {
     display: inline-block;
   }
-  .service-details-inner {
+  .Services-details-inner {
     max-width: 100%;
   }
-  .service-details-inner h2 {
+  .Services-details-inner h2 {
     font-size: 25px;
     margin-bottom: 10px;
   }
-  /*-- End Service Details --*/
-  /*----- END SERVICES DETAILS PAGE -----*/
+  /*-- End Services Details --*/
+  /*----- END ServicesS DETAILS PAGE -----*/
   /*----- ABOUT PAGE -----*/
   /*-- Counter --*/
   .counter-area-four {
@@ -3084,7 +3084,7 @@
 }
 
 @media only screen and (min-width: 1800px) {
-  .service-item {
+  .Services-item {
     padding-left: 25px;
     padding-right: 25px;
   }
