@@ -59,7 +59,7 @@ $transition: 0.5s all ease;
 $all-size: 15px;
 $white-color: #ffffff;
 $grey-color: #4a6f8a;
-$blue-color: #039c59;
+$blue-color: #51ad5a;
 $black-color: #111111;
 
 /*-- Default CSS --*/
@@ -286,7 +286,7 @@ button {
           padding-bottom: 15px;
 
           li {
-            border-bottom: 1px dashed #039c5947;
+            border-bottom: 1px dashed #51ad5a47;
 
             &:last-child {
               border-bottom: 0;
@@ -1221,12 +1221,12 @@ button {
       li {
         display: inline-block;
         list-style-type: none;
-        color: #039c59;
+        color: #51ad5a;
         font-weight: 500;
         font-size: $all-size;
 
         i {
-          color: #039c59;
+          color: #51ad5a;
         }
         &:last-child {
           float: right;
@@ -1239,7 +1239,7 @@ button {
         }
         a {
           display: block;
-          color: #039c59;
+          color: #51ad5a;
           font-weight: 500;
           font-size: $all-size;
 
@@ -1930,7 +1930,7 @@ footer {
       .form-control {
         border-radius: 0;
         border: 0;
-        border-bottom: 1px solid #039c599e;
+        border-bottom: 1px solid #51ad5a9e;
         font-size: $all-size;
         padding-left: 0;
         padding-bottom: 8px;
@@ -1939,7 +1939,7 @@ footer {
 
         &:focus {
           box-shadow: none;
-          border-bottom: 1px solid #039c599e;
+          border-bottom: 1px solid #51ad5a9e;
         }
       }
       ::placeholder {
@@ -3971,7 +3971,7 @@ footer {
   blockquote {
     font-size: $all-size;
     color: $grey-color;
-    background-color: #039c5914;
+    background-color: #51ad5a14;
     padding: 30px 75px;
     line-height: 26px;
     position: relative;
@@ -4260,7 +4260,7 @@ footer {
         border: 1px solid $white-color;
 
         &.active {
-          border: 1px solid #039c59;
+          border: 1px solid #51ad5a;
         }
         &:after {
           color: $white-color;
@@ -4339,7 +4339,7 @@ footer {
     .common-btn {
       a {
         color: #fff;
-        background-color: #039c59;
+        background-color: #51ad5a;
 
         &:hover {
           border: 2px solid #111111;
@@ -4348,13 +4348,13 @@ footer {
       }
       .cmn-btn-right {
         background-color: transparent;
-        color: #039c59;
-        border: 2px solid #039c59;
+        color: #51ad5a;
+        border: 2px solid #51ad5a;
 
         &:hover {
-          background-color: #039c59;
+          background-color: #51ad5a;
           color: #fff;
-          border: 2px solid #039c59;
+          border: 2px solid #51ad5a;
         }
       }
     }
