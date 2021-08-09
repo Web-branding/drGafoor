@@ -2688,9 +2688,9 @@ footer {
   margin-right: auto;
 }
 
-.slider-nav .slick-dots {
+/* .slider-nav .slick-dots {
   bottom: -145px;
-}
+} */
 
 .slider-nav .slick-dots li {
   margin: 0;
@@ -5042,4 +5042,8 @@ footer {
 
 .welcome-item ul li .welcome-inner p {
   text-align: justify;
+}
+
+.slider-nav .slick-dots {
+  bottom: -180px !important;
 }
