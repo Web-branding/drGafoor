@@ -1544,7 +1544,7 @@ button:focus {
 /*-- End Newsletter --*/
 /*-- Footer --*/
 footer {
-  background-image: url("../img/home-one/14.png");
+  background-image: url("../img/home-one/Footer.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2778,7 +2778,7 @@ footer {
 /*----- Doctor Page -----*/
 /*-- Page Title --*/
 .page-title-one {
-  background-image: url("../img/img/doctor_banner.jpg");
+  background-image: url("../img/img/Doctor Banner.jpg");
 }
 
 .page-title-area {
@@ -3268,8 +3268,9 @@ footer {
 /*----- Blog Details Page -----*/
 /*-- Page Title --*/
 .page-title-four {
-  background-image: url("../img/img/service_banner.png");
+  background-image: url("../img/img/about_banner.png");
 }
+
 
 .page-title-four .page-title-item {
   margin-top: 0;
@@ -4493,6 +4494,10 @@ footer {
 /*----- END DEPARTMENTS PAGE -----*/
 /*----- ServicesS DETAILS PAGE -----*/
 /*-- Services Details --*/
+
+.page-title-six {
+    background-image: url(../img/img/service-banner.png);
+}
 .Servicess-details-img {
   margin-bottom: 50px;
 }
