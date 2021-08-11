@@ -4601,7 +4601,7 @@ footer {
   text-align: center;
   font-size: 26px;
   border-radius: 50%;
-  -webkit-transition: 0.5s all ease;
+  /* -webkit-transition: 0.5s all ease; */
   transition: 0.5s all ease;
   margin-right: 28px;
   /*-webkit-box-shadow: 0px 0px 14px 0px #51ad5a;*/
