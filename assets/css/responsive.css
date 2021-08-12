@@ -3078,7 +3078,7 @@
     font-size: 20px;
   }
   .mean-container .mean-bar {
-    background-color: #51ad5a;
+    background-color: #fff;
     padding: 0;
   }
   .mean-container a.meanmenu-reveal {
@@ -3098,6 +3098,7 @@
     position: relative;
     top: 10px;
     margin-top: -10px;
+    background-color: #111;
   }
   .mean-container .mean-nav ul li a.mean-expand {
     margin-top: 0;
