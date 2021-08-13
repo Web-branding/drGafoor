@@ -4502,7 +4502,8 @@ footer {
 /*-- Services Details --*/
 
 .page-title-six {
-    background-image: url(../img/img/service-banner.png);
+    /* background-image: url(../img/img/service-banner.png); */
+    background-image: url(../img/img/depatrment_banner.jpg);
 }
 .Servicess-details-img {
   margin-bottom: 50px;
@@ -5058,3 +5059,18 @@ footer {
 .slider-nav .slick-dots {
   bottom: -180px !important;
 }
+/* gallery page */
+.gallery-item {
+	flex: 1 0 24rem;
+	margin: 1rem;
+	box-shadow: 0.3rem 0.4rem 0.4rem rgba(0, 0, 0, 0.4);
+	overflow: hidden;
+}
+
+.gallery-image {
+	transition: transform 400ms ease-out;
+}
+.gallery-image:hover {
+	transform: scale(1.15);
+}
+/* gallery page end */
