@@ -297,7 +297,7 @@ button:focus {
 }
 
 .main-nav nav .navbar-nav {
-  margin-right: auto;
+  /* margin-right: auto; */
   margin-left: auto;
 }
 
@@ -2074,7 +2074,7 @@ footer {
   margin-bottom: 8px;
   position: absolute;
   top: 23px;
-  right: 70px;
+  right: 179px;
 }
 
 .speciality-right .speciality-emergency p {
@@ -5142,3 +5142,7 @@ footer {
   padding: 0;
 }
 /* founder section about us */
+.title{
+  color: #51ad5a;
+  font-size: 16px;
+}

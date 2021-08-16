@@ -156,8 +156,8 @@ a.meanmenu-reveal {
 }
 .navbar-light .navbar-brand, .navbar-light .navbar-brand:hover {
     color: #fff;
-    font-weight: bold;
-    text-transform: uppercase;
+    /* font-weight: bold;
+    text-transform: uppercase; */
 }
 .main-nav nav ul {
     padding: 0;
