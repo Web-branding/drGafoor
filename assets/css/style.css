@@ -297,7 +297,7 @@ button:focus {
 }
 
 .main-nav nav .navbar-nav {
-  margin-right: auto;
+  /* margin-right: auto; */
   margin-left: auto;
 }
 
@@ -2068,7 +2068,7 @@ footer {
   margin-bottom: 8px;
   position: absolute;
   top: 23px;
-  right: 70px;
+  right: 177px;
 }
 
 .speciality-right .speciality-emergency p {
@@ -4587,8 +4587,8 @@ footer {
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
   margin-right: 28px;
-  -webkit-box-shadow: 0px 0px 14px 0px #51ad5a;
-  box-shadow: 0px 0px 14px 0px #51ad5a;
+  /* -webkit-box-shadow: 0px 0px 14px 0px #51ad5a;
+  box-shadow: 0px 0px 14px 0px #51ad5a; */
 }
 
 .back-to-top-btn i:hover {
@@ -5002,3 +5002,7 @@ footer {
 
 /*----- End Home Five CSS -----*/
 /*# sourceMappingURL=style.css.map */
+.title{
+  color: #51ad5a;
+  font-size: 16px;
+}

@@ -3103,6 +3103,10 @@
   .mean-container .mean-nav ul li a.mean-expand {
     margin-top: 0;
   }
+  .title-responsive{
+    font-size: 8px;
+    color: green;
+  }
 }
 
 @media only screen and (min-width: 1800px) {
