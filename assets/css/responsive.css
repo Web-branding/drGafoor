@@ -37,16 +37,20 @@
   .header-top-item .header-top-right {
     text-align: center;
   }
+  
   /*-- End Header Top --*/
   /*-- Navbar --*/
   .mobile-nav .logo {
-    width: 75px;
-    top: 10px !important;
+    width: 212px;
+    
   }
   .mobile-nav.mean-container .mean-nav ul li a.active {
     color: #51ad5a;
   }
   .nav-srh {
+    display: none;
+  }
+  .footer-item{
     display: none;
   }
   /*-- End Navbar --*/
@@ -431,7 +435,7 @@
   }
   /*-- Footer --*/
   footer {
-    padding-top: 170px;
+    padding-top: 10px;
   }
   .footer-item .footer-contact h3 {
     font-size: 18px;
@@ -586,7 +590,11 @@
   }
   .speciality-right img {
     display: inline-block;
+    padding-bottom: 20px;
   }
+  .icos {
+    margin-left: 99px!important;
+}
   .speciality-right .speciality-emergency {
     left: 15px;
     padding: 25px 210px 20px 30px;
@@ -659,7 +667,7 @@
   .banner-area {
     height: 100%;
     padding-top: 150px;
-    padding-bottom: 150px;
+    padding-bottom: 53px;
   }
   .banner-item {
     text-align: center;
@@ -788,7 +796,7 @@
     padding-right: 10px;
   }
   .slick-dotted.slick-slider {
-    margin-bottom: 15px;
+    margin-bottom: 0px;
   }
   .slider-nav {
     margin-bottom: 30px;
@@ -1455,6 +1463,7 @@
     li:before {
     display: none;
   }
+ 
   .appointment-item-two-right .appointment-item-content .content-two {
     margin-left: 10px;
   }
@@ -1578,6 +1587,9 @@
   }
   .search-icon {
     display: none;
+  }
+  .gogle{
+    padding-bottom: 50px;
   }
   /*-- End Navbar --*/
   /*-- Home Slider --*/
@@ -3069,7 +3081,7 @@
   .mobile-nav .logo {
     text-decoration: none;
     position: absolute;
-    top: 11px;
+    /* top: 11px; */
     z-index: 999;
     left: 15px;
     color: #fff;
@@ -3091,7 +3103,7 @@
     display: none !important;
   }
   .mobile-nav nav .navbar-nav {
-    height: 300px;
+    height: 360px;
     overflow-y: scroll;
   }
   .mean-container a.meanmenu-reveal span {

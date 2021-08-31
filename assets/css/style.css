@@ -60,6 +60,24 @@ body {
   background-color: #ffffff;
   font-size: 15px;
 }
+.whats-app {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 57px;
+  background-color: #25d366;
+  color: #FFF;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  
+  left: 15px;
+  z-index: 100;
+}
+
+.my-float {
+  margin-top: 10px;
+}
 
 h1,
 h2,
@@ -277,7 +295,7 @@ button:focus {
 /*-- Navbar --*/
 .navbar-light .navbar-brand,
 .navbar-light .navbar-brand:hover {
-  width: 95px;
+  width: 376px;
 }
 
 .main-nav {
@@ -1549,7 +1567,7 @@ footer {
   background-position: center center;
   background-repeat: no-repeat;
   background-color: #0843aa;
-  padding-top: 185px;
+  padding-top: 50px !important;
   position: relative;
 }
 
@@ -4999,7 +5017,9 @@ footer {
 .spread-area .spread-content ul li p {
   margin-bottom: 0;
 }
-
+.icos{
+  margin-left: 99px!important;
+}
 /*----- End Home Five CSS -----*/
 /*# sourceMappingURL=style.css.map */
 .title{

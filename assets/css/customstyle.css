@@ -60,6 +60,27 @@ body {
   background-color: #ffffff;
   font-size: 15px;
 }
+.whats-app {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 57px;
+  background-color: #25d366;
+  color: #FFF;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+ 
+  left: 15px;
+  z-index: 100;
+}
+.icos{
+  margin-left: 80px!important;
+}
+
+.my-float {
+  margin-top: 10px;
+}
 
 h1,
 h2,
@@ -1553,7 +1574,7 @@ footer {
   background-position: center center;
   background-repeat: no-repeat;
   background-color: #0843aa;
-  padding-top: 185px;
+  padding-top: 50px;
   position: relative;
 }
 
@@ -5145,4 +5166,15 @@ footer {
 .title{
   color: #51ad5a;
   font-size: 16px;
+}
+.management-area{
+background-color: beige;
+padding-top: 29px;
+padding-bottom: 29px;
+}
+.doctor-items {
+  margin-bottom: 30px;
+  background-color: #ffffff;
+  text-align: center;
+  border-radius: 10px;
 }
