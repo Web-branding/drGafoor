@@ -2967,7 +2967,7 @@ footer {
 
 .doctors-area-two .doctor-shape {
   position: absolute;
-  top: 45%;
+  top: 63%;
   left: 0;
   -webkit-animation: a-six 5s infinite linear;
   animation: a-six 5s infinite linear;
@@ -4431,10 +4431,18 @@ footer {
 /*----- END PRIVACY POLICY PAGE -----*/
 /*----- DEPARTMENTS PAGE -----*/
 /*-- Department --*/
+.icon_membership{
+  text-align: -webkit-center;
+}
+.membership_card{
+  height: 265px;
+}
 .departments-area {
   padding-bottom: 180px;
 }
-
+.department_animation{
+  animation: a-seven 10s infinite linear;
+}
 .department-item {
   text-align: center;
   border: 1px solid #51ad5a;
