@@ -581,6 +581,40 @@
     font-size: 18px;
     margin-bottom: 8px;
   }
+  .speciality-right-about {
+    height: auto;
+    background-image: unset;
+  }
+  .speciality-right:before {
+    display: none;
+  }
+  .speciality-right-about img {
+    display: inline-block;
+    padding-bottom: 20px;
+  }
+
+  .speciality-right-about .speciality-emergency {
+    left: 15px;
+    padding: 25px 210px 20px 30px;
+  }
+  .speciality-right-about .speciality-emergency .speciality-icon {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+  }
+  .speciality-right-about .speciality-emergency .speciality-icon i {
+    font-size: 18px;
+  }
+  .speciality-right-about .speciality-emergency h3 {
+    font-size: 18px;
+    right: 128px;
+  }
+  .speciality-right-about .speciality-emergency p {
+    top: 52px;
+    font-size: 12px;
+    right: 95px;
+  }
+
   .speciality-right {
     height: auto;
     background-image: unset;
@@ -666,7 +700,12 @@
   /*-- Banner --*/
   .banner-area {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 53px;
+    padding-bottom: 53px;
+  }
+  .slider-area {
+    height: 100%;
+    padding-top: 53px;
     padding-bottom: 53px;
   }
   .banner-item {
@@ -2101,6 +2140,29 @@
     font-size: 20px;
     margin-bottom: 8px;
   }
+  .speciality-right-about {
+    height: auto;
+    background-image: unset;
+  }
+  .speciality-right-about img {
+    display: inline-block;
+  }
+  .speciality-right-about .speciality-emergency {
+    left: 15px;
+    padding: 30px 295px 20px 40px;
+  }
+  .speciality-right-about .speciality-emergency h3 {
+    font-size: 22px;
+    right: 186px;
+  }
+  .speciality-right-about .speciality-emergency p {
+    margin-bottom: 0;
+    color: #fff;
+    position: absolute;
+    right: 142px;
+    top: 56px;
+  }
+
   .speciality-right {
     height: auto;
     background-image: unset;
@@ -2177,8 +2239,13 @@
   /*-- Banner --*/
   .banner-area {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 53px;
     padding-bottom: 150px;
+  }
+  .slider-area {
+    height: 100%;
+    padding-top: 53px;
+    /* padding-bottom: 150px; */
   }
   .banner-item {
     text-align: center;

@@ -984,6 +984,7 @@ button:focus {
   font-weight: 600;
   font-size: 22px;
   margin-bottom: 14px;
+  margin-top: 14px;
 }
 
 .Services-item .Services-front p {
@@ -2042,6 +2043,71 @@ footer {
   margin-bottom: 0;
 }
 
+.speciality-right-about {
+  background-image: url("../img/img/about_expertise.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-radius: 10px 0 0 10px;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.speciality-right-about img {
+  display: none;
+}
+
+.speciality-right-about .speciality-emergency {
+  position: absolute;
+  bottom: 20px;
+  left: -70px;
+  background-color: #51ad5a;
+  padding: 30px 295px 25px 40px;
+  border-radius: 10px;
+}
+
+.speciality-right-about .speciality-emergency .speciality-icon {
+  width: 45px;
+  height: 45px;
+  background-color: #ffffff;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  display: inline-block;
+  position: relative;
+}
+
+.speciality-right-about .speciality-emergency .speciality-icon i {
+  display: inline-block;
+  line-height: 45px;
+  color: #51ad5a;
+  text-align: center;
+  font-size: 20px;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  position: absolute;
+  top: 0px;
+  left: 12px;
+}
+
+.speciality-right-about .speciality-emergency h3 {
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 24px;
+  margin-bottom: 8px;
+  position: absolute;
+  top: 23px;
+  right: 179px;
+}
+
+.speciality-right-about .speciality-emergency p {
+  margin-bottom: 0;
+  color: #ffffff;
+  position: absolute;
+  right: 142px;
+  top: 56px;
+}
+
 .speciality-right {
   background-image: url("../img/img/our_expertise.jpg");
   background-size: cover;
@@ -2106,6 +2172,8 @@ footer {
   right: 142px;
   top: 56px;
 }
+
+
 
 .speciality-left {
   padding-left: 55px;
@@ -2961,6 +3029,13 @@ footer {
 
 /*-- End Doctor Search --*/
 /*-- Doctor --*/
+.doctor-area{
+  background-color: #27c91424;
+
+}
+.counter-area{
+  background-color: #27c91424;
+}
 .doctors-area-two {
   padding-bottom: 180px;
   position: relative;
@@ -4534,7 +4609,7 @@ footer {
 
 .page-title-six {
     /* background-image: url(../img/img/service-banner.png); */
-    background-image: url(../img/img/depatrment_banner.jpg);
+    background-image: url(../img/img/depatrment_bannercopy.png);
 }
 .Servicess-details-img {
   margin-bottom: 50px;
@@ -5177,7 +5252,9 @@ footer {
   font-size: 16px;
 }
 .management-area{
-background-color: beige;
+background-color: #669966;
+color: #ffff;
+/* background-color: beige; */
 padding-top: 29px;
 padding-bottom: 29px;
 }
