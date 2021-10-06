@@ -12,6 +12,9 @@
   .pt-100 {
     padding-top: 50px;
   }
+  .pt-70 {
+    padding-top: 20px;
+  }
   .pb-70 {
     padding-bottom: 20px;
   }
@@ -705,8 +708,9 @@
   }
   .slider-area {
     height: 100%;
+    
     padding-top: 53px;
-    padding-bottom: 53px;
+    /* padding-bottom: 53px; */
   }
   .banner-item {
     text-align: center;

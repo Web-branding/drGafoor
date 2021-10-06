@@ -3272,7 +3272,7 @@ footer {
 }
 
 .appointment-area-three .speciality-right-three {
-  background-image: url("../img/doctor/4.jpg");
+  background-image: url("../img/doctor/doctorpage.png");
 }
 
 /*-- End Appointment --*/
@@ -5025,4 +5025,16 @@ footer {
 .title{
   color: #51ad5a;
   font-size: 16px;
+}
+.color-purple{
+  background: #8000800f;
+}
+.color-green{
+  background-color: #27c91424;
+}
+.color-white{
+  background-color: #fff;
+}
+.pt-70{
+  padding-top: 70px;
 }

@@ -127,7 +127,9 @@ img {
 .pb-70 {
   padding-bottom: 70px;
 }
-
+.pt-70 {
+  padding-top: 70px;
+}
 .pb-100 {
   padding-bottom: 100px;
 }
@@ -2109,7 +2111,7 @@ footer {
 }
 
 .speciality-right {
-  background-image: url("../img/img/our_expertise.jpg");
+  background-image: url("../img/img/homecallcopy.png");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2335,6 +2337,7 @@ footer {
 /*-- Banner --*/
 .banner-area {
   height: 700px;
+  height: 450px;
   position: relative;
 }
 
@@ -2404,9 +2407,11 @@ footer {
 }
 
 .banner-item .banner-right img:nth-child(1) {
-  top: -125px;
+  top: -15px;
+   /* top: 10px; */
   right: 10px;
   max-width: 510px;
+  max-width: 430px;
   z-index: 1;
   margin-left: auto;
   margin-right: auto;
@@ -2535,6 +2540,7 @@ footer {
 /*-- About --*/
 .hospital-area {
   position: relative;
+
 }
 
 .hospital-area .hospital-shape img {
@@ -2743,7 +2749,8 @@ footer {
 /*-- Review Slider --*/
 .review-area {
   position: relative;
-  background-image: url("../img/home-three/review-bg.png");
+  /* background-image: url("../img/home-three/review-bg.png"); */
+  background-color: #5e585e4a;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3030,11 +3037,11 @@ footer {
 /*-- End Doctor Search --*/
 /*-- Doctor --*/
 .doctor-area{
-  background-color: #27c91424;
+  background-color: #8000800f;
 
 }
 .counter-area{
-  background-color: #27c91424;
+  background-color: #8000800f;
 }
 .doctors-area-two {
   padding-bottom: 180px;
@@ -3364,7 +3371,7 @@ footer {
 }
 
 .appointment-area-three .speciality-right-three {
-  background-image: url("../img/doctor/4.jpg");
+  background-image: url("../img/doctor/doctorpage.png");
 }
 
 /*-- End Appointment --*/
@@ -4609,7 +4616,7 @@ footer {
 
 .page-title-six {
     /* background-image: url(../img/img/service-banner.png); */
-    background-image: url(../img/img/depatrment_bannercopy.png);
+    background-image: url("../img/img/depatrment_bannercopy.png");
 }
 .Servicess-details-img {
   margin-bottom: 50px;
@@ -4683,7 +4690,7 @@ footer {
 /*-- Counter --*/
 .counter-area-four {
   margin-top: 0;
-  margin-bottom: 100px;
+  padding-bottom: 43px;
 }
 
 /*-- End Counter --*/
@@ -5267,4 +5274,13 @@ padding-bottom: 29px;
 .services-item{
   height: 60px;
   line-height: unset;
+}
+.color-purple{
+  background: #8000800f;
+}
+.color-green{
+  background-color: #27c91424;
+}
+.color-white{
+  background-color: #fff;
 }
