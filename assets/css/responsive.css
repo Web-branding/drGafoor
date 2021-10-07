@@ -3215,4 +3215,9 @@
     max-width: 760px;
   }
 }
+@media only screen and (max-width: 767px){
+  .sliderimg{
+    height: 243px;
+  }
+}
 /*# sourceMappingURL=responsive.css.map */
