@@ -1578,7 +1578,7 @@ footer {
   background-position: center center;
   background-repeat: no-repeat;
   background-color: #0843aa;
-  padding-top: 50px;
+  padding-top: 15px;
   position: relative;
 }
 
@@ -2046,7 +2046,7 @@ footer {
 }
 
 .speciality-right-about {
-  background-image: url("../img/img/about_expertise.png");
+  background-image: url("../img/img/aboutcall.jpeg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2178,7 +2178,7 @@ footer {
 
 
 .speciality-left {
-  padding-left: 55px;
+  /* padding-left: 55px; */
   padding-right: 120px;
 }
 
@@ -3371,7 +3371,7 @@ footer {
 }
 
 .appointment-area-three .speciality-right-three {
-  background-image: url("../img/doctor/doctorpage.png");
+  background-image: url("../img/doctor/doctorcall.jpeg");
 }
 
 /*-- End Appointment --*/
@@ -4616,7 +4616,7 @@ footer {
 
 .page-title-six {
     /* background-image: url(../img/img/service-banner.png); */
-    background-image: url("../img/img/depatrment_bannercopy.png");
+    background-image: url("../img/img/2.jpg");
 }
 .Servicess-details-img {
   margin-bottom: 50px;
@@ -5283,4 +5283,13 @@ padding-bottom: 29px;
 }
 .color-white{
   background-color: #fff;
+}
+.homeo{
+  color: #51ad5a;
+}
+.card-height{
+  height: 120px;
+}
+.ayurveda-card{
+  height: 150px;
 }
