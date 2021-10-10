@@ -2129,7 +2129,7 @@
   /*-- End Welcome --*/
   /*-- Speciality --*/
   .speciality-area .section-title-two {
-    padding-top: 0;
+    /* padding-top: 0; */
     padding-left: 15px;
   }
   .speciality-item .speciality-inner {
@@ -3008,6 +3008,9 @@
   .slider-item-three .slider-shape img {
     margin-bottom: 30px;
   }
+  .index-height{
+    height: 543px;
+  }
   /*----- End Home Five CSS -----*/
 }
 
@@ -3218,6 +3221,9 @@
 @media only screen and (max-width: 767px){
   .sliderimg{
     height: 243px;
+  }
+  .index-height{
+    height: 309px;
   }
 }
 /*# sourceMappingURL=responsive.css.map */

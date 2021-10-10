@@ -2046,7 +2046,7 @@ footer {
 }
 
 .speciality-right-about {
-  background-image: url("../img/img/aboutcall.jpeg");
+  background-image: url("../img/img/homecall.jpeg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2111,7 +2111,7 @@ footer {
 }
 
 .speciality-right {
-  background-image: url("../img/img/homecallcopy.png");
+  background-image: url("../img/img/indexcall.jpeg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3373,6 +3373,13 @@ footer {
 .appointment-area-three .speciality-right-three {
   background-image: url("../img/doctor/doctorcall.jpeg");
 }
+.appointment-area-three .speciality-right-ayurveda {
+  background-image: url("../img/doctor/ayurveda.jpeg");
+}
+
+.appointment-area-three .speciality-right-md {
+  background-image: url("../img/doctor/mddoctor.jpeg");
+}
 
 /*-- End Appointment --*/
 /*----- End Doctor Details Page -----*/
@@ -3381,7 +3388,9 @@ footer {
 .page-title-four {
   background-image: url("../img/img/about_banner.png");
 }
-
+.page-title-department {
+  background-image: url("../img/img/departmentbanner.jpeg");
+}
 
 .page-title-four .page-title-item {
   margin-top: 0;
@@ -4618,6 +4627,10 @@ footer {
     /* background-image: url(../img/img/service-banner.png); */
     background-image: url("../img/img/2.jpg");
 }
+.page-title-gallery {
+  /* background-image: url(../img/img/service-banner.png); */
+  background-image: url("../img/slide1.jpeg");
+}
 .Servicess-details-img {
   margin-bottom: 50px;
 }
@@ -5292,4 +5305,25 @@ padding-bottom: 29px;
 }
 .ayurveda-card{
   height: 150px;
+}
+.color-slider{
+  color: #fff;
+}
+.color-black{
+color: #111111;
+}
+.index-height{
+  height: 480px;
+}
+.justify{
+align-items: center;
+}
+.about-height{
+  height: 410px;
+}
+.img-radius{
+  border-radius: 15px;
+}
+.index-height{
+  height: 500px;
 }
