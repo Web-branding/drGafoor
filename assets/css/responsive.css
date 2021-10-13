@@ -932,7 +932,8 @@
   }
   .appointment-item-two-right .appointment-item-content {
     padding: 20px 15px 30px;
-    margin: 0 10px;
+    /* margin: 0 10px; */
+    margin: 0 -26px;
   }
   .appointment-item-two-right .appointment-item-content h2 {
     font-size: 20px;
