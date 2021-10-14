@@ -3050,10 +3050,11 @@ footer {
 
 .doctors-area-two .doctor-shape {
   position: absolute;
-  top: 63%;
+  /* top: 63%; */
+  top: 70%;
   left: 0;
-  -webkit-animation: a-six 5s infinite linear;
-  animation: a-six 5s infinite linear;
+  /* -webkit-animation: a-six 5s infinite linear;
+  animation: a-six 5s infinite linear; */
 }
 
 /*-- End Doctor --*/
@@ -5330,4 +5331,7 @@ align-items: center;
 }
 .index-height{
   height: 500px;
+}
+.color{
+  color: #232323;
 }
