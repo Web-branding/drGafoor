@@ -1134,7 +1134,7 @@ button:focus {
 }
 
 .expertise-item .expertise-right img {
-  width: 70%;
+  width: 100%;
   z-index: 1;
   -webkit-animation: a-seven 10s infinite linear;
   animation: a-seven 10s infinite linear;
