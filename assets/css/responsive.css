@@ -58,6 +58,9 @@
   }
   /*-- End Navbar --*/
   /*-- Home Slider --*/
+  .slidersize{
+    font-size: 16px;
+  }
   .slider-item {
     height: 100%;
     padding-top: 110px;
@@ -734,7 +737,7 @@
     padding-right: 20px;
   }
   .banner-item .banner-right img:nth-child(1) {
-    top: -55px;
+    top: -30px;
     right: 0;
     left: 0;
     max-width: 285px;
@@ -910,7 +913,7 @@
   /*-- End Doctor Search --*/
   /*-- Doctor --*/
   .doctors-area-two {
-    padding-bottom: 130px;
+    padding-bottom: 100px;
   }
   /*-- End Doctor --*/
   /*----- End Doctor Page -----*/
@@ -922,7 +925,7 @@
   /*-- End Page Title --*/
   /*-- Appointment --*/
   .appointment-area-two {
-    padding-bottom: 160px;
+    padding-bottom: 100px;
   }
   .appointment-item-two {
     padding: 30px 15px 40px;
@@ -1027,7 +1030,7 @@
   /*-- End Doctor Details --*/
   /*-- Appointment --*/
   .appointment-area-three {
-    padding-bottom: 160px;
+    padding-bottom: 100px;
   }
   .appointment-area-three .appointment-item {
     margin-right: 0;
@@ -1433,7 +1436,7 @@
   /*----- DEPARTMENTS PAGE -----*/
   /*-- Department --*/
   .departments-area {
-    padding-bottom: 130px;
+    padding-bottom: 100px;
   }
   .department-item {
     padding-top: 25px;
@@ -2277,7 +2280,7 @@
     padding-right: 20px;
   }
   .banner-item .banner-right img:nth-child(1) {
-    top: -55px;
+    top: -30px;
     right: 0;
     left: 0;
     max-width: 400px;
@@ -2476,7 +2479,7 @@
   /*-- End Page Title --*/
   /*-- Appointment --*/
   .appointment-area-two {
-    padding-bottom: 180px;
+    padding-bottom: 70px;
   }
   .appointment-item-two-right .appointment-item-content {
     padding: 35px 40px 35px;
