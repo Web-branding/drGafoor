@@ -3233,3 +3233,24 @@
   }
 }
 /*# sourceMappingURL=responsive.css.map */
+@media (max-width: 575.5px) {
+  .content {
+      padding: 20px
+  }
+
+  .content .container {
+      padding: 20px
+  }
+
+  .h3 {
+      font-size: calc(1.1rem + .6vw)
+  }
+
+  .fs-5 {
+      font-size: 0.9rem !important
+  }
+
+  .container .rollers .wrapper .items-container .item .company {
+      opacity: 1.5
+  }
+}
