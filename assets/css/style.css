@@ -1572,7 +1572,8 @@ footer {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-color: #bba406;
+  background-color: #0843aa;
+  /* background-color: #bba406; */
   padding-top: 15px !important;
   position: relative;
 }
