@@ -164,7 +164,7 @@ jQuery(function ($) {
 
 	// PRELOADER
 	jQuery(window).on('load',function(){
-		jQuery(".loader").fadeOut(500);
+		jQuery(".loader").fadeOut(200);
 	});
 
 	// Wow JS
